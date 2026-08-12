@@ -48,8 +48,8 @@ a:hover{
     align-items: center;
     margin: 0 auto;
 }
-.teal{
-    color: #3ae6dd;
+.purple{
+    color: rgba(109, 0, 252, 0.514);
 }
 
 .logo{
@@ -68,7 +68,7 @@ li{
     margin-left: 16px;
     text-decoration: none;
     font-size: 16px;
-    color: #3ae6dd;
+    color: rgba(109, 0, 252, 0.514);
     font-weight: bold;
     padding: 6px;
 }
@@ -78,7 +78,7 @@ li{
 }
 
 .nav__link--primary{
-    border: 2px solid #3ae6dd;
+    border: 2px solid rgba(109, 0, 252, 0.514);
     border-radius: 4px;
 }
 
@@ -91,7 +91,7 @@ li{
     font-size: 48px;
     text-align: center;
     border: none;
-    color: #3ae6dd;
+    color: rgba(109, 0, 252, 0.514);
     display: none;
 }
 
@@ -118,7 +118,6 @@ li{
 }
 
 .menu--open{
-    max-height: 100vh;
     overflow-y: hidden;
 }
 
@@ -156,7 +155,7 @@ landing
 
 
 #landing{
-    background-color: #3ae6dd31;
+    background-color: rgba(0, 0, 128, 0.356);
 }
 
 header{
@@ -183,7 +182,7 @@ header{
 
 h1{
     font-size: 56px;
-    color: #3ae6dd;
+    color: rgba(109, 0, 252, 0.514);
     margin-bottom: 24px;
     text-align: center;
 }
@@ -203,7 +202,7 @@ button:active{
 }
 
 .btn{
-    background-color: #3ae6dd;
+    background-color: rgba(109, 0, 252, 0.514);
     color: white;
     padding: 12px 24px;
     font-size: 20px;
@@ -302,8 +301,8 @@ HIGHLIGHTS
 }
 
 .highlight__img{
-    border: 2px solid #3ae6dd59;
-    color:#3ae6dd;
+    border: 2px solid rgba(109, 0, 252, 0.829);
+    color:rgba(109, 0, 252, 0.514);
     width: 100px;
     height: 100px;
     display: flex;
@@ -332,7 +331,7 @@ FEATURES
 
 #features{
     padding-top: 10vh;
-    background-color: #3ae6dd31;
+    background-color: rgba(0, 0, 128, 0.356);
 }
 
 .books{
@@ -393,7 +392,7 @@ Explore
  */
 
 #explore{
-   background-color:  #3ae6dd31;
+   background-color:  rgba(0, 0, 128, 0.356);
 }
 
 /*
